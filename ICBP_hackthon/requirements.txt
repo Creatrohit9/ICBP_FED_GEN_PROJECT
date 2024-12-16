@@ -13,3 +13,4 @@ cohere
 wordcloud
 ollama
 google.generativeai
+langchain_community
