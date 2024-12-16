@@ -5,3 +5,4 @@ numpy
 matplotlib
 streamlit
 streamlit-option-menu
+PyPDF2
