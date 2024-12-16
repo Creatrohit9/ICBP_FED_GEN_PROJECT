@@ -12,3 +12,4 @@ youtube-search-python
 cohere
 wordcloud
 ollama
+google.generativeai
