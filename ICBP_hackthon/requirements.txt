@@ -10,4 +10,4 @@ seaborn
 googlesearch-python
 youtube-search-python
 cohere
-
+wordcloud
