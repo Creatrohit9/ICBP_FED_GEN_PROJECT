@@ -6,3 +6,4 @@ matplotlib
 streamlit
 streamlit-option-menu
 PyPDF2
+seaborn
