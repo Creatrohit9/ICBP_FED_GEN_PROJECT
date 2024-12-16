@@ -8,3 +8,4 @@ streamlit-option-menu
 PyPDF2
 seaborn
 googlesearch-python
+youtube-search-python
