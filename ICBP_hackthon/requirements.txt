@@ -14,3 +14,4 @@ wordcloud
 ollama
 google.generativeai
 langchain_community
+pyttsx3
