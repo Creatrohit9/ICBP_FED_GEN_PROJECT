@@ -15,4 +15,4 @@ ollama
 google.generativeai
 langchain_community
 pyttsx3
-speech_recognition
+SpeechRecognition
